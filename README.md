@@ -5,7 +5,7 @@
 
 ****
 
-###Directions from Maryville to *Thousand Islands*
+### Directions from Maryville to Thousand Islands 
 
 We can travel to *Thousand Islands* through car or by flight.
 1. By Car it will take around 15 hours.
