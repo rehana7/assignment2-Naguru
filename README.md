@@ -19,5 +19,20 @@ We can travel to *Thousand Islands* through car or by flight.
    3. Start a ride to Thousand Islands.
    4. After reaching, start the Ferry ride and enjoy the beautiful nature.
 
+#### Things to brought 
+
+Things to brought to get full fun in the trip are:
+* Camera
+   * charger
+   * Tripod or selfie stick
+* Jacket, if it is cold
+* Cool bag
+   * Water bottles
+   * Juices
+* Snacks
+* Hat, Shades
+* Boat
+* Required clothes
+* Reservation tickets 
 
 
