@@ -1,6 +1,6 @@
 # Rehana Naguru
 
-I am from India. I worked as an Lecturer in my college, and I had experiance in TATA Consultancy services. I love reading books and I enjoy coding. 
+I am from India. I worked as an Lecturer in my college,and I had experiance in TATA Consultancy services. I love reading books and I enjoy coding.
 
-***[Rehana](Rehana_naguru.jpg)***
+ 
 
