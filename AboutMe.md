@@ -31,5 +31,19 @@ Quotes are the best lines which will give inspiration at all times. A quote can 
 
 >Nothing is impossible. The word itself says I'm possible. ~ *Audrey Hepburn*
 
+---
+
+```
+const int maxn = ...;
+int C[maxn + 1][maxn + 1];
+C[0][0] = 1;
+for (int n = 1; n <= maxn; ++n) {
+    C[n][0] = C[n][n] = 1;
+    for (int k = 1; k < n; ++k)
+        C[n][k] = C[n - 1][k - 1] + C[n - 1][k];
+}
+```
+
+
 
 
