@@ -33,6 +33,14 @@ Quotes are the best lines which will give inspiration at all times. A quote can 
 
 ---
 
+## Pascal's Triangle
+
+>Pascal’s triangle is a triangular array of the binomial coefficients. Number of entries in every line is equal to line number. For example, the first line has “1”, the second line has “1 1”, the third line has “1 2 1”,.. and so on. Every entry in a line is value of a Binomial Coefficient. 
+
+Pascal's Traingle <https://www.geeksforgeeks.org/pascal-triangle/>
+ 
+
+
 ```
 const int maxn = ...;
 int C[maxn + 1][maxn + 1];
@@ -43,6 +51,7 @@ for (int n = 1; n <= maxn; ++n) {
         C[n][k] = C[n - 1][k - 1] + C[n - 1][k];
 }
 ```
+Pascal's Triangle Code <https://cp-algorithms.com/combinatorics/binomial-coefficients.html>
 
 
 
