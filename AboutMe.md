@@ -18,3 +18,18 @@ There are many delicious foods one has to try. Hash Browns are the quick breakfa
    | Crab Rangoon | Chinese Restaurants | $4.00 |
    | Funnel Cake | Lees Kitchen, Philadelphia | $9.00 | 
 
+---
+
+## My Favourite Quotes
+
+Quotes are the best lines which will give inspiration at all times. A quote can change a life, if you follow. Below are my all time best quotes:
+
+>Never..Never..Never Quit
+>> Author is *Winston Churchill* , This is the best quote. To achieve Success first we have to try , if we quit no success will follow. 
+
+>To shine like a sun, first you have to burn like a sun. ~ *A.P.J Abdul Kalam* 
+
+>Nothing is impossible. The word itself says I'm possible. ~ *Audrey Hepburn*
+
+
+
