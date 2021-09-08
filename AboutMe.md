@@ -8,7 +8,7 @@ I am from India. I worked as an Lecturer in my college,and I had experiance in T
 
  ## Tasty Foods 
 
-There are many delicious food one has to try. Hash Browns are the quick breakfast. India's famous Chicken Biryani is the flavourfull rice with tender chicken, that every one must try.Caramel Macchiato is the relaxing coffee. Crab Rangoon is the apt choice for chinese food lovers. Funnel Cake is the yummy snack. Following is the list of good foods, their location and price:
+There are many delicious foods one has to try. Hash Browns are the quick breakfast. India's famous Chicken Biryani is the flavourfull rice with tender chicken, that every one must try.Caramel Macchiato is the relaxing coffee. Crab Rangoon is the apt choice for chinese food lovers. Funnel Cake is the yummy snack. Following is the list of good foods, their location and price:
 
    | Food/Drink | Location | Price | 
    | :---:      |  :---:   |:---:  |
